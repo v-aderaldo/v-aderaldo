@@ -6,10 +6,10 @@
 
 <div>
   <a href="https://github.com/v-aderaldo">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=v-aderaldo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-aderaldo&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v-aderaldo&show_icons=true&include_all_commits=true&count_private=true&theme=calm"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-aderaldo&layout=compact&langs_count=7&theme=calm"/>
 </div>
- 
+
 <div style="display:inline-block"><br> 
   <img align="center" alt="Logo do HTML5." height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Logo do CSS3." height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
